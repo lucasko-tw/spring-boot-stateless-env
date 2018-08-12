@@ -1,0 +1,9 @@
+org/app/controller/PublicController.class
+org/app/config/Role.class
+org/app/dao/UserDAO.class
+org/app/controller/UserController.class
+org/app/config/WebSecurityConfig.class
+org/app/config/LoginFilter.class
+org/app/model/User.class
+org/app/service/UserService.class
+org/app/MainApplication.class

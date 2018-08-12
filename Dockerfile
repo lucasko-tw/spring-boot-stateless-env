@@ -2,6 +2,6 @@ FROM lucasko/springboot
 
 COPY . /opt
 
-CMD ["mvn", "spring-boot:run"]
+ENTRYPOINT ["java", "-jar", "/opt/target/app-1.0.jar"]
 
 
